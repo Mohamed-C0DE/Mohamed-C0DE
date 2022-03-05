@@ -76,7 +76,7 @@ I am a Full-Stack Developer with a background in marketing . Experience working 
     </td>
   </tr>
 </tbody></table>
-<h3>View more of my projects at: <a style="color:blue;">https://github.com/Mohamed-C0DE?tab=repositories</a></h3>
+<h3>View more of my projects by <a href="https://github.com/Mohamed-C0DE?tab=repositories">clicking here</a></h3>
 </article>
       </div>
   </div>
