@@ -64,7 +64,7 @@ Full-Stack Web Developer based in Windsor, Ontario with a background in Marketin
         <a href="https://hirefromlhl.netlify.app/" rel="nofollow">
             <img src="https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/HireD.gif?raw=true" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/HireD.gif?raw=true" style="max-width:100%;">
         </a>
-        <p><strong>React, Bootstrap, Node.js, Express.js, PostgreSQL, &amp;</strong> - Hire/:D is a web application designed to help LHL graduates to showcase their projects to potential employers. The app also allows employers to easily look at different developers and their projects to see if they would be a great fit for their open positions.</p>
+        <p><strong>React, Bootstrap, Node.js, Express.js, PostgreSQL</strong> - Hire/:D is a web application designed to help LHL graduates to showcase their projects to potential employers. The app also allows employers to easily look at different developers and their projects to see if they would be a great fit for their open positions.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Masjid Al-Berr</h3>
