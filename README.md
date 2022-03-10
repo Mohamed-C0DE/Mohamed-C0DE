@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mohamed
 
-Full-Stack Web Developer based in Windsor, Ontario. Experience working on a codebase with a team and using my problem-solving and creative skills to build functional, engaging websites with tested code. Looking for a position to apply my knowledge while continuing to grow and develop new skill sets.
+Full-Stack Web Developer based in Windsor, Ontario with a background in Marketing. Experience working on a codebase with a team and using my problem-solving and creative skills to build functional, engaging websites with tested code. Looking for a position to apply my knowledge while continuing to grow and develop new skill sets.
 
 ## My Skills
 
