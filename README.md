@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Mohamed
 
-Full-Stack Web Developer based in Windsor, Ontario with a background in Marketing. Experience working on a codebase with a team and using my problem-solving and creative skills to build functional, engaging websites with tested code. Looking for a position to apply my knowledge while continuing to grow and develop new skill sets.
+I am a Full-Stack Developer with a background in marketing . Experience working on a codebase with a team and using my problem-solving and creative skills to build functional, engaging websites with tested code. Looking for a position to apply my knowledge while continuing to grow and develop new skill sets.
 
 ## My Skills
 
@@ -62,23 +62,23 @@ Full-Stack Web Developer based in Windsor, Ontario with a background in Marketin
         <p><a href="https://hirefromlhl.netlify.app/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://hirefromlhl.netlify.app/" rel="nofollow">
-            <img src="https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/HireD.gif?raw=true" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/HireD.gif?raw=true" style="max-width:100%;">
+            <img src="https://github.com/joshitrigun/hire-d/raw/master/react-front-end/pics/ezgif.com-gif-maker.gif?raw=true" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/joshitrigun/hire-d/raw/master/react-front-end/pics/ezgif.com-gif-maker.gif?raw=true" style="max-width:100%;">
         </a>
-        <p><strong>React, Bootstrap, Node.js, Express.js, PostgreSQL</strong> - Hire/:D is a web application designed to help LHL graduates to showcase their projects to potential employers. The app also allows employers to easily look at different developers and their projects to see if they would be a great fit for their open positions.</p>
+        <p><strong>React, Bootstrap, Node.js, Express.js, PostgreSQL, &amp; Twitter API </strong> - Hire/:D is a web application designed to help LHL graduates to showcase their projects to potential employers. The app also allows employers to easily look at different developers and their projects to see if they would be a great fit for their open positions.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Masjid Al-Berr</h3>
+      <h3>Interview Scheduler</h3>
         <br>
-        <p> <a href="https://github.com/Mohamed-C0DE/Masjid-Al-Berr" rel="nofollow">Visit Site</a></p>
+        <p> <a href="https://github.com/Mohamed-C0DE/scheduler" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://github.com/Mohamed-C0DE/Masjid-Al-Berr" rel="nofollow">
-            <img src="https://github.com/Mohamed-C0DE/react-masjid/raw/gh-pages/src/screenshot/Al-Berr.gif?raw=true" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
+            <img src="https://github.com/Mohamed-C0DE/scheduler/raw/master/docs/scheduler.gif?raw=true" width="100%" alt="Portfolio" data-canonical-src="https://github.com/Mohamed-C0DE/scheduler/raw/master/docs/scheduler.gif?raw=true" style="max-width:100%;">
         </a>
-        <p><strong>CSS, JavaScript, React, Firebase</strong> - A Local mosque, Masjid Al-ber, needed a website done. Went over what the mosque wanted to incorporate into the Website, created a design, and implemented it on their Wix site. This is a React app of the mosque website with an updated design.</p>
+        <p><strong>React, Node, Express, PostgreSQL</strong> - Interview Scheduler is a react application that allows users to book and cancel interviews. Users are able to pick a day in the week and see all their appointment, and if they decide they want to change any elements about a booked appointment, like the interviewer, they can select 1 of the other 4 interviewers available.</p>
     </td>
   </tr>
 </tbody></table>
-<h3>View more of my projects by <a href="https://github.com/Mohamed-C0DE?tab=repositories">clicking here</a></h3>
+<h3>View more of my projects at: <a>https://github.com/Mohamed-C0DE?tab=repositories</a></h3>
 </article>
       </div>
   </div>
