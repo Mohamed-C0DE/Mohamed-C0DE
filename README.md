@@ -74,7 +74,7 @@ I am a Full-Stack Developer with a background in marketing . Experience working 
         <a href="https://github.com/Mohamed-C0DE/Masjid-Al-Berr" rel="nofollow">
             <img src="https://github.com/Mohamed-C0DE/scheduler/raw/master/docs/scheduler.gif?raw=true" width="100%" alt="Portfolio" data-canonical-src="https://github.com/Mohamed-C0DE/scheduler/raw/master/docs/scheduler.gif?raw=true" style="max-width:100%;">
         </a>
-        <p><strong>React, Node, Express, PostgreSQL</strong> - Interview Scheduler is a react application that allows users to book and cancel interviews. Users are able to pick a day in the week and see all their appointment, and if they decide they want to change any elements about a booked appointment, like the interviewer, they can select 1 of the other 4 interviewers available.</p>
+        <p><strong>React, SASS, Node, Express, PostgreSQL</strong> - Interview Scheduler is a react application that allows users to book and cancel interviews. Users are able to pick a day in the week and see all their appointment, and if they decide they want to change any elements about a booked appointment, like the interviewer, they can select 1 of the other 4 interviewers available.</p>
     </td>
   </tr>
 </tbody></table>
