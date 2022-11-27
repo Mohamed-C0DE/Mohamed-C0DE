@@ -1,8 +1,8 @@
-![](https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/headerImg.png?raw=true)
+![](https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/header.png?raw=true)
 
 ### Hi there 👋, My name is Mohamed
 
-Full Stack Developer with a background in marketing . Experience working on a codebase with a team and using my problem-solving and creative skills to build functional, engaging websites with tested code. Looking for a position to apply my knowledge while continuing to grow and develop new skill sets.
+I am a Full-Stack Developer with a background in marketing . Experience working on a codebase with a team and using my problem-solving and creative skills to build functional, engaging websites with tested code. Looking for a position to apply my knowledge while continuing to grow and develop new skill sets.
 
 ## My Skills
 
@@ -56,15 +56,15 @@ Full Stack Developer with a background in marketing . Experience working on a co
   <div>
 <table>
   <tbody><tr>
-   <td width="33%" valign="top">
-      <h3>Pamella-bio</h3>
+    <td width="33%" valign="top">
+      <h3>Chat Roulette</h3>
         <br>
-        <p><a href="https://pamellaoh.netlify.app/" rel="nofollow">Visit Site</a></p>
+        <p> <a href="https://github.com/chat-roulettte/chat-roulette" rel="nofollow">Visit Site</a></p>
         <br>
-        <a href="https://pamellaoh.netlify.app/" rel="nofollow">
-            <img src="https://github.com/Mohamed-C0DE/Pamella-bio/raw/main/src/images/Pamella-bio.gif?raw=true" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/Mohamed-C0DE/Pamella-bio/raw/main/src/images/Pamella-bio.gif?raw=true" style="max-width:100%;">
+        <a href="https://github.com/chat-roulettte/chat-roulette" rel="nofollow">
+            <img src="https://github.com/chat-roulettte/chat-roulette/blob/master/docs/images/screenshots/ui.png?raw=true" width="100%" alt="Portfolio" data-canonical-src="https://github.com/chat-roulettte/chat-roulette/blob/master/docs/images/screenshots/ui.png?raw=true" style="max-width:100%;">
         </a>
-        <p><strong>React &amp; Bootstrap </strong> - Freelance project through Riipen. The client, Pamella Oh, wanted a biography website built for her.</p>
+        <p><strong>Go, PostgreSQL, HTML, CSS, JS, TailwindCSS</strong> - Chat Roulette for Slack is an open-source chat-roulette app for Slack. A no-frills, self-hosted, free alternative to the popular Donut app.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Hire/:D</h3>
@@ -72,9 +72,19 @@ Full Stack Developer with a background in marketing . Experience working on a co
         <p><a href="https://hirefromlhl.netlify.app/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://hirefromlhl.netlify.app/" rel="nofollow">
-            <img src="https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/HireD.gif?raw=true" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/Mohamed-C0DE/Mohamed-C0DE/blob/main/HireD.gif?raw=true" style="max-width:100%;">
+            <img src="https://github.com/joshitrigun/hire-d/raw/master/react-front-end/pics/ezgif.com-gif-maker.gif?raw=true" width="100%" alt="Cronofy.tech" data-canonical-src="https://github.com/joshitrigun/hire-d/raw/master/react-front-end/pics/ezgif.com-gif-maker.gif?raw=true" style="max-width:100%;">
         </a>
         <p><strong>React, Bootstrap, Node.js, Express.js, PostgreSQL, &amp; Twitter API </strong> - Hire/:D is a web application designed to help LHL graduates to showcase their projects to potential employers. The app also allows employers to easily look at different developers and their projects to see if they would be a great fit for their open positions.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Interview Scheduler</h3>
+        <br>
+        <p> <a href="https://github.com/Mohamed-C0DE/scheduler" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="https://github.com/Mohamed-C0DE/Masjid-Al-Berr" rel="nofollow">
+            <img src="https://github.com/Mohamed-C0DE/scheduler/raw/master/docs/scheduler.gif?raw=true" width="100%" alt="Portfolio" data-canonical-src="https://github.com/Mohamed-C0DE/scheduler/raw/master/docs/scheduler.gif?raw=true" style="max-width:100%;">
+        </a>
+        <p><strong>React, Node, Express, PostgreSQL</strong> - Interview Scheduler is a react application that allows users to book and cancel interviews. Users are able to pick a day in the week and see all their appointment, and if they decide they want to change any elements about a booked appointment, like the interviewer, they can select 1 of the other 4 interviewers available.</p>
     </td>
   </tr>
 </tbody></table>
@@ -103,3 +113,4 @@ Full Stack Developer with a background in marketing . Experience working on a co
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-c0de&show_icons=true&locale=en" alt="mohamed-c0de" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-c0de&" alt="mohamed-c0de" />
 </div>
+
